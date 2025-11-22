@@ -64,6 +64,4 @@ A visual representation of my contribution and language focus.
 
 [![](https://visitcount.itsvg.in/api?id=Daddaabdelghafour\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
----
 
-If you want, I can also **beautify the styling**, restructure it like a **professional GitHub README**, or turn it into a **personal portfolio page**.
