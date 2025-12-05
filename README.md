@@ -1,7 +1,4 @@
-Here is your exact text with **all AI-embedded `[cite: xx]` parts removed**.
-Nothing else has been changed.
 
----
 
 # ✨ DADDA ABDELGHAFOUR
 
